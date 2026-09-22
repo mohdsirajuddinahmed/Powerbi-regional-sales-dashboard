@@ -87,3 +87,8 @@ Executive management requires a centralized business intelligence dashboard to m
 .
 ├── Indian Superstore Analytics Dashboard_Mohd Sirajuddin Ahmed.pdf   # Visual Presentation Deck (PDF)
 └── README.md                                                        # Documentation
+```
+
+---
+
+*Maintained by [Mohd Sirajuddin Ahmed](https://github.com/mohdsirajuddinahmed) — B.Tech CSE Student & Data Science Aspirant.*
